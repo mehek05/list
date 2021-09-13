@@ -1,0 +1,25 @@
+h1{
+    margin-bottom: 30px;
+    color:rgb(214, 108, 209);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+input{
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color:springgreen;
+    
+    font-weight: bold;
+}
+button{
+    margin-bottom: 20px;
+    background-color:rgb(118, 108, 184);
+    
+}
+hr{
+    margin-bottom: 15px;
+}
+body{
+    background-color:rgb(197, 163, 197);
+}
